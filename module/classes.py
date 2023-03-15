@@ -36,7 +36,7 @@ ThiefClass = UnitClass(
 
 PriestClass = UnitClass(
     name='Жрец',
-    max_health=400.0,
+    max_health=40.0,
     max_stamina=60.0,
     attack=0.7,
     stamina=1.2,
